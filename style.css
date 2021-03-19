@@ -1,3 +1,28 @@
 body{
-    background-color: aqua;
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 60px;
+    padding: 42px;
+    box-shadow: 5px 5px 10px  gray;
+    border-radius: 10px;
+}
+#transaction{
+    display: none;
+}
+.diposit{
+    background-color:slateblue;
+}
+.Withdraw{
+    background-color: salmon;
+}
+.Balance{
+    background-color: orange;
+}
+
+.allRawArea{
+    margin: 20px;
+    padding: 20px;               ;
+    border-radius: 7px;
+    color: white;
 }
